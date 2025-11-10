@@ -87,5 +87,3 @@ My toolbox is built for creating modern, full-stack, AI-powered applications.
 </table>
 
 </div>
-
----
