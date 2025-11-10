@@ -12,12 +12,6 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rondor" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40"
-         height="40"
-         alt="LinkedIn"/>
-  </a>
   <a href="mailto:ron.dor@dorestates.com" style="text-decoration:none; margin-left:20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          width="40"
