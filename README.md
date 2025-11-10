@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ron.dor@dorestates.com
+  Email: ron.dor@dorestates.com
 </p>
 
 <br>
