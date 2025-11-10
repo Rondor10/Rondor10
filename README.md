@@ -35,7 +35,7 @@ My toolbox is built for creating modern, full-stack, AI-powered applications.
   <tr>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript (ES6+)</strong>
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
