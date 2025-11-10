@@ -15,8 +15,6 @@
   Email: ron.dor@dorestates.com
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://placehold.co/1000x300/1D2B3A/E0EFFF?text=Code+%7C+AI+%7C+Automation" alt="Code - AI - Automation Banner">
 </p>
