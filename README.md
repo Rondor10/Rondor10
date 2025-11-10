@@ -1,23 +1,28 @@
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-    Hi, I'm Ron Dor!
-  </h1>
-  
-  <p>
-    <strong>Full-Stack Developer specializing in AI-driven automation and intelligent agent systems.</strong>
-  </p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Hi, I'm Ron Dor!
+</h1>
 
-  <p>
-    I build robust, scalable, and intelligent applications from concept to deployment.
-  </p>
-  
-  <a href="https://linkedin.com/in/rondor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center">
+  <strong>Full-Stack Developer specializing in AI-driven automation and intelligent agent systems.</strong>
+</p>
+
+<p align="center">
+  I build robust, scalable, and intelligent applications from concept to deployment.
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/rondor" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40"
+         height="40"
+         alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="mailto:ron.dor@dorestates.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:ron.dor@dorestates.com" style="text-decoration:none; margin-left:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         width="40"
+         height="40"
+         alt="Email"/>
   </a>
 </div>
 
@@ -29,9 +34,15 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 My Tech Stack
 
 My toolbox is built for creating modern, full-stack, AI-powered applications.
+
+</div>
+
+<div align="center">
 
 <table>
   <tr>
@@ -56,6 +67,7 @@ My toolbox is built for creating modern, full-stack, AI-powered applications.
       <br><strong>MongoDB</strong>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
@@ -69,7 +81,17 @@ My toolbox is built for creating modern, full-stack, AI-powered applications.
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" width="48" height="48" alt="Firebase" />
       <br><strong>Firebase</strong>
     </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
   </tr>
 </table>
+
+</div>
 
 ---
