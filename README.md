@@ -11,14 +11,9 @@
   I build robust, scalable, and intelligent applications from concept to deployment.
 </p>
 
-<div align="center">
-  <a href="mailto:ron.dor@dorestates.com" style="text-decoration:none; margin-left:20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         width="40"
-         height="40"
-         alt="Email"/>
-  </a>
-</div>
+<p align="center">
+  ron.dor@dorestates.com
+</p>
 
 <br>
 
